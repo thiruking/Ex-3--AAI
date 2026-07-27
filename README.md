@@ -132,6 +132,8 @@ print(query_result)
 
 ## Output:
 
+<img width="660" height="522" alt="image" src="https://github.com/user-attachments/assets/151bf95f-ea47-41f5-86d5-65f724b22075" />
+<img width="531" height="182" alt="image" src="https://github.com/user-attachments/assets/7527404d-b531-4d54-bc4d-74f5246127db" />
 
 
 ## Result:
